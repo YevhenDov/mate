@@ -8,10 +8,10 @@ public class Practice_1_5 {
     int[] array;
 
     public void createArray(){
-        array = new int[100];;
+        array = new int[100000];;
 
         for (int i = 0; i < array.length; i++){
-            array[i] = random.nextInt(1000);
+            array[i] = random.nextInt(100);
         }
     }
 
@@ -115,32 +115,51 @@ public class Practice_1_5 {
 
     }
 
+
+
     public static void main(String[] args){
         Practice_1_5 practice = new Practice_1_5();
+        long startTime;
+        long endTime;
 
         practice.createArray();
         practice.printArray();
+        startTime = System.currentTimeMillis();
         practice.quickSort(practice.array, 0, practice.array.length - 1);
+        endTime = System.currentTimeMillis();
         practice.printArray();
+        System.out.println("\n\nquickSort time: " + (endTime - startTime));
 
         practice.createArray();
         practice.printArray();
+        startTime = System.currentTimeMillis();
         practice.bubbleSort(practice.array);
+        endTime = System.currentTimeMillis();
         practice.printArray();
+        System.out.println("\n\nbubbleSort time: " + (endTime - startTime));
 
         practice.createArray();
         practice.printArray();
+        startTime = System.currentTimeMillis();
         practice.selectionSort(practice.array);
+        endTime = System.currentTimeMillis();
         practice.printArray();
+        System.out.println("\n\nselectionSort time: " + (endTime - startTime));
 
         practice.createArray();
         practice.printArray();
+        startTime = System.currentTimeMillis();
         practice.insertionSort(practice.array);
+        endTime = System.currentTimeMillis();
         practice.printArray();
+        System.out.println("\n\ninsertionSort time: " + (endTime - startTime));
 
         practice.createArray();
         practice.printArray();
+        startTime = System.currentTimeMillis();
         practice.countSort(practice.array, practice.array.length);
+        endTime = System.currentTimeMillis();
         practice.printArray();
+        System.out.println("\n\ncountSort time: " + (endTime - startTime));
     }
 }
