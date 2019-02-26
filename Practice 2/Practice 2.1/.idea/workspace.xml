@@ -2,75 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59aef8e4-0fee-46a3-aad2-6d58397b814f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Diamand/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Diamand/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Diamand/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Diamand/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Diamand/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Diamand/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Diamand/Diamand.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Diamand/out/production/Diamand/com/mateacademy/project1/Diamand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Diamand/out/production/Diamand/com/mateacademy/project1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Diamand/src/com/mateacademy/project1/Diamand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Diamand/src/com/mateacademy/project1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../MateAcademy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_1/1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_1/out/production/1/Practice_1_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_2/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_2/Practice 1_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_2/out/production/Practice 1_2/Practice_1_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_2/out/production/Practice 1_2/Practice_1_2b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_2/src/Practice_1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_2/src/Practice_1_2b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_3/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_3/Practice 1_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_3/out/production/Practice 1_3/Diamond.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_3/out/production/Practice 1_3/META-INF/Practice 1_3.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_3/src/Diamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/Practice 1_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/out/production/Practice 1_4/Factorial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/out/production/Practice 1_4/Fibonacci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/out/production/Practice 1_4/META-INF/Practice 1_4.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/out/production/Practice 1_4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_5/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_5/Practice 1_5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_5/out/production/Practice 1_5/Practice_1_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_5/out/production/Practice 1_5/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_5/src/Practice_1_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Practice 1_5/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../untitled/out/production/untitled/Malishka.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../untitled/src/Malishka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../untitled/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice 1_5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,20 +18,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="663">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding>
-                <element signature="e#1352#1353#0" expanded="true" />
-                <element signature="e#1387#1388#0" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
-                <element signature="e#1463#1464#0" expanded="true" />
-                <element signature="e#1497#1498#0" expanded="true" />
-                <element signature="e#1534#1535#0" expanded="true" />
-                <element signature="e#1567#1568#0" expanded="true" />
-                <element signature="e#1643#1644#0" expanded="true" />
-                <element signature="e#1683#1684#0" expanded="true" />
-                <element signature="e#1716#1717#0" expanded="true" />
-                <element signature="e#1764#1765#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#1688#1689#0" expanded="true" />
+                <element signature="e#1771#1772#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -127,12 +62,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Student.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Student.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="560" />
     <option name="y" value="150" />
     <option name="width" value="1235" />
@@ -144,19 +79,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Practtice 2.1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practtice 2.1" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,7 +136,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.16107382" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -219,12 +144,12 @@
       <window_info anchor="bottom" id="CheckStyle" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.05248227" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2609929" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -239,26 +164,27 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="663">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
-            <element signature="e#1352#1353#0" expanded="true" />
-            <element signature="e#1387#1388#0" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
-            <element signature="e#1463#1464#0" expanded="true" />
-            <element signature="e#1497#1498#0" expanded="true" />
-            <element signature="e#1534#1535#0" expanded="true" />
-            <element signature="e#1567#1568#0" expanded="true" />
-            <element signature="e#1643#1644#0" expanded="true" />
-            <element signature="e#1683#1684#0" expanded="true" />
-            <element signature="e#1716#1717#0" expanded="true" />
-            <element signature="e#1764#1765#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#1688#1689#0" expanded="true" />
+            <element signature="e#1771#1772#0" expanded="true" />
           </folding>
         </state>
       </provider>

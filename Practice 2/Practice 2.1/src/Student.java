@@ -5,68 +5,74 @@ public class Student {
     private final int group;
     private final String specialty;
 
-    Student(final StudentBuilder studentBuilder){
-        this.name = studentBuilder.getName();
-        this.surname = studentBuilder.getSurname();
-        this.course = studentBuilder.getCourse();
-        this.group = studentBuilder.getGroup();
-        this.specialty = studentBuilder.getSpecialty();
+    public String getName() {
+        return name;
     }
 
-    static class StudentBuilder{
+    public String getSurname() {
+        return surname;
+    }
+
+    public int getCourse() {
+        return course;
+    }
+
+    public int getGroup() {
+        return group;
+    }
+
+    public String getSpecialty() {
+        return specialty;
+    }
+
+    Student(
+        final String name,
+        final String surname,
+        final int course,
+        final int group,
+        final String specialty)
+    {
+        this.name = name;
+        this.surname = surname;
+        this.course = course;
+        this.group = group;
+        this.specialty = specialty;
+    }
+
+    public static class StudentBuilder{
         private String name;
         private String surname;
         private int course;
         private int group;
         private String specialty;
 
-        public StudentBuilder name(final String name){
+        public StudentBuilder setName(final String name){
             this.name = name;
             return this;
         }
 
-        public StudentBuilder surname(final String surname){
+        public StudentBuilder setSurname(final String surname){
             this.surname = surname;
             return this;
         }
 
-        public StudentBuilder course(final int course){
+        public StudentBuilder setCourse(final int course){
             this.course = course;
             return this;
         }
 
-        public StudentBuilder group(final int group){
+        public StudentBuilder setGroup(final int group){
             this.group = group;
             return this;
         }
 
-        public StudentBuilder specialty(final String specialty){
+        public StudentBuilder setSpecialty(final String specialty){
             this.specialty = specialty;
             return this;
         }
 
-        public String getName() {
-            return name;
-        }
-
-        public String getSurname() {
-            return surname;
-        }
-
-        public int getCourse() {
-            return course;
-        }
-
-        public int getGroup() {
-            return group;
-        }
-
-        public String getSpecialty() {
-            return specialty;
-        }
-
         public Student build(){
-            return new Student(this);
+            return new Student(name, surname, course, group, specialty);
         }
     }
 }
