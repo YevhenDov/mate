@@ -1,4 +1,4 @@
-public class LocalClass{
+public class LocalClass {
 
     int x = 25;
 
@@ -12,4 +12,6 @@ public class LocalClass{
         printInt printInt = new printInt();
         printInt.printInt();
     }
+
+
 }

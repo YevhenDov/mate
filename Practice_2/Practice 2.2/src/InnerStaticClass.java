@@ -8,6 +8,7 @@ public class InnerStaticClass {
 
             result = number;
             value = x;
+
         }
 
         public int getResult(){
